@@ -1,4 +1,4 @@
-# GoG = Groups of Groups
+# Demo:
 * https://earthchange.github.io/GoG/
 
 # Credits:
