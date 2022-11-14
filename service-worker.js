@@ -5,11 +5,9 @@ const CACHE = "cacheV1";
 let urlsToCache = [
     "./",
     "./index.html",
-    "./favicon.png",
-    "./clock-face.png",
     "./main.js",
     "./pwa-handler.js",
-    "./main.css"
+    "./default.css"
 ];
 
 // Cache all the selected items once application is installed.
